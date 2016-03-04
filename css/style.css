@@ -1,0 +1,14 @@
+label{
+	padding: 10px;
+	border: 2px solid #E2DBDB;
+	border-radius: 2px;
+	box-sizing: border-box;
+}
+label:hover{
+	background-color: #E2DBDB;
+	border: 2px solid #000;
+	border-radius: 2px;
+}
+#der{
+	text-align: center;
+}
